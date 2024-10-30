@@ -5,9 +5,6 @@ import onnxsim
 import onnx
 import struct
 import os
-
-import torch
-import torch.nn as nn
 import torch.nn.functional as F
 import math
 
